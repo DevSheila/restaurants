@@ -81,7 +81,7 @@ const Home = () => {
       position={"relative"}
     >
       <Head>
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyB68BIJkMeQLuHc2eXW5UOVGnzIPKfs7Hg"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyCY_fZ5ZvMlbHBCxkQdOlvsCboY8nmxaDM"></script>
       </Head>
 
       <Header
