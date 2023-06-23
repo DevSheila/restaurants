@@ -8,7 +8,7 @@ const nextConfig = {
     appDir: true,
   },
   env: {
-    GOOGLE_MAPS_API_KEY: "AIzaSyB68BIJkMeQLuHc2eXW5UOVGnzIPKfs7Hg",
+    GOOGLE_MAPS_API_KEY: "AIzaSyCY_fZ5ZvMlbHBCxkQdOlvsCboY8nmxaDM",
     TRIP_ADVISOR_API_KEY:"0ad5345e3cmsh0252cb9761788fep1c8b4fjsnd3a3740b38c1"
   },
   eslint: { ignoreDuringBuilds: true } 
